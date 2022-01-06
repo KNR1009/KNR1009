@@ -1,4 +1,4 @@
-## Hi there 👋 I'm IkumaTadokoro
+## Hi there 👋 I'm KAZUNARI ITOU
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KNR1009)
 
