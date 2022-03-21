@@ -3,7 +3,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=KNR1009)
 
 ## About
-- Programming Beginner@Japan
+
+![pear-parrots](https://user-images.githubusercontent.com/57901015/159275331-a916880b-01ab-4a4d-b64b-84155fd63cda.gif)
+
+
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
