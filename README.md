@@ -2,6 +2,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KNR1009)
 
+[Qiita 年間 TOP Contributor]([url](https://qiita.com/KNR109))
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNR1009&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KNR1009&theme=onedark&show_icons=ture" />
