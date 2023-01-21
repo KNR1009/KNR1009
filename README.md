@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KNR1009)
 
-[Qiita 年間 TOP Contributor]([url](https://qiita.com/KNR109))
+[Qiita 年間 TOP Contributor](https://qiita.com/KNR109) (2022年)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNR1009&layout=compact&show_icons=true&theme=onedark" />
