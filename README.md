@@ -1,20 +1,23 @@
-## Latest Blog Posts📘
+## 最新記事📘
 
-### front-end
+### フロントエンド
 
+- [フロントエンド API通信戦略](https://zenn.dev/sutamac/articles/27246dfe1b5a8e)
 - [フロントエンド(React)の技術質問](https://qiita.com/KNR109/items/e13a5c5b8b461e846902)
 - [Reactを学ぶ上で知っておくべきJavaScriptの基本概念](https://qiita.com/KNR109/items/d127687d54a12e992143)
 - [Reactパフォーマンス最適化まとめ](https://qiita.com/KNR109/items/9f7ec8dd03d0bea8dc35)
 - [【入門】フロントエンドのテスト手法まとめ](https://qiita.com/KNR109/items/7cf6b24bed318dab5715)
 
-### server-side
+### サーバーサイド
 
 - [API設計まとめ](https://qiita.com/KNR109/items/d3b6aa8803c62238d990)
 - [【入門】データベース設計まとめ](https://qiita.com/KNR109/items/5d4a1954f3e8fd8eaae7)
+- [【入門】DockerでRailsのAPIモードを環境構築しHerokuへ本番反映する手順](https://qiita.com/KNR109/items/d7adfd7cc068c2456670)
 
 ### その他
 
 - [リーダブルコードの要点整理と活用法をまとめた](https://qiita.com/KNR109/items/3b14e2e8f89a33c0f959)
+- [無料枠で使っていたはずのAWSから$200の請求が届いたお話](https://qiita.com/KNR109/items/01614b62eaf33f33bd78)
 
 ## Hi there 👋 I'm KNR
 
